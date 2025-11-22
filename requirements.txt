@@ -1,0 +1,19 @@
+# Librerías principales para análisis y modelado
+pandas
+numpy
+scikit-learn
+optuna
+
+# Visualización
+matplotlib
+seaborn
+
+# Aplicación web
+streamlit
+flask
+
+# Manejo de modelos
+joblib
+
+# Balanceo de clases
+imbalanced-learn
